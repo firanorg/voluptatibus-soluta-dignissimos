@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/voluptatibus-soluta-dignissimos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,7 +13,13 @@
     "@firanorg/improved-succotash": "^3.2.5",
     "@firanorg/minima-officiis-earum": "^1.0.0",
     "@firanorg/sapiente-facere-aut": "^1.0.0",
-    "@firanorg/scaling-goggles": "^2.1.7"
+    "@firanorg/scaling-goggles": "^2.1.7",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "corcojs-qrcode-sample": "^1.0.1",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "style",
